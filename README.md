@@ -1,7 +1,7 @@
 docker-sbcl
 ===========
 
-Docker with SBCL
+Docker with SBCL and Quicklisp
 
 
 ## Example
