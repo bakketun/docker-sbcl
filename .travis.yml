@@ -6,5 +6,6 @@ install:
   - sudo chmod +x /usr/sbin/policy-rc.d
   - sudo apt-get install -qy slirp lxc lxc-docker
   - git clone git://github.com/jpetazzo/sekexe
+  - chmod +x uml.sh
 script:
   - sekexe/run "`pwd`/uml.sh"
