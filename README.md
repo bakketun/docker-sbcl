@@ -1,7 +1,9 @@
 docker-sbcl
 ===========
 
-Docker with SBCL and Quicklisp
+Docker with SBCL and Quicklisp. 
+
+NB! This is just an example. Don't put FROM bakketun/sbcl in your Docker. 
 
 
 ## Example
